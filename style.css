@@ -1,0 +1,54 @@
+.center {
+    text-align: center;
+}
+
+.blue {
+    color: blue;
+}
+.aqua {
+    color:black;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.r {
+    border-radius: 20px;
+}
+
+.red {
+    color:black;
+    background-color: red;
+    border-radius: 20px;
+} 
+
+.white {
+    color: white;
+}
+
+.green {
+    background-color:green;
+}
+
+.gh {
+    color: aqua;
+    background-color: black;
+}
+
+.bu {
+    color: white;
+    background-color: blue;
+}
+
+.ba {
+    color: white;
+    background-color:goldenrod
+}
